@@ -1,0 +1,1 @@
+export const SET_VEHICLES_LIST = 'setVehiclesList'

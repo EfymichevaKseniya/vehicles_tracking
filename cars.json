@@ -1,0 +1,110 @@
+[
+  {
+    "id": "648df2b9aa3c489de1275c27",
+    "driver_name": "Clay Dillard",
+    "phone": "+1 (884) 574-2868",
+    "latitude": -26.549774,
+    "longitude": 97.152912,
+    "type": "D",
+    "name": "car"
+  },
+  {
+    "id": "648df2b9cf47678e2a02aeca",
+    "driver_name": "Carlson Colon",
+    "phone": "+1 (843) 480-3239",
+    "latitude": 65.687474,
+    "longitude": -84.826556,
+    "type": "C",
+    "name": "truck"
+  },
+  {
+    "id": "648df2b9bb24498bf31d9377",
+    "driver_name": "Crane Daniels",
+    "phone": "+1 (805) 595-2608",
+    "latitude": -18.658287,
+    "longitude": 139.86878,
+    "type": "D",
+    "name": "special"
+  },
+  {
+    "id": "648df2b96fc659c5788785a2",
+    "driver_name": "Maynard Osborne",
+    "phone": "+1 (870) 502-3538",
+    "latitude": -82.526009,
+    "longitude": -94.448951,
+    "type": "C",
+    "name": "truck"
+  },
+  {
+    "id": "648df2b9fd0bd7482e2d1a11",
+    "driver_name": "Moody Grimes",
+    "phone": "+1 (893) 582-3613",
+    "latitude": 52.14257,
+    "longitude": 65.216846,
+    "type": "D",
+    "name": "special"
+  },
+  {
+    "id": "648df2b9d401f68e962b5078",
+    "driver_name": "Katrina Webster",
+    "phone": "+1 (802) 519-2914",
+    "latitude": 86.860316,
+    "longitude": -165.73303,
+    "type": "B",
+    "name": "car"
+  },
+  {
+    "id": "648df3168b2b8ea3a61f14a3",
+    "driver_name": "Vonda Warren",
+    "phone": "+1 (934) 599-2578",
+    "latitude": 12.822035,
+    "longitude": -134.560077,
+    "type": "D",
+    "name": "special"
+  },
+  {
+    "id": "648df31602bc855f01fd63c1",
+    "driver_name": "Flynn Mason",
+    "phone": "+1 (811) 551-3576",
+    "latitude": 47.534018,
+    "longitude": 90.103159,
+    "type": "C",
+    "name": "truck"
+  },
+  {
+    "id": "648df316590729d016117731",
+    "driver_name": "Hansen Ellis",
+    "phone": "+1 (854) 570-3811",
+    "latitude": -51.106489,
+    "longitude": 76.269424,
+    "type": "B",
+    "name": "car"
+  },
+  {
+    "id": "648df316063b655e85b76dc6",
+    "driver_name": "Jenifer Patel",
+    "phone": "+1 (800) 522-3142",
+    "latitude": 27.646894,
+    "longitude": 62.873451,
+    "type": "D",
+    "name": "special"
+  },
+  {
+    "id": "648df3165bd358dba4fd611a",
+    "driver_name": "Jacobson Cantrell",
+    "phone": "+1 (875) 408-2261",
+    "latitude": -32.444141,
+    "longitude": -77.526346,
+    "type": "C",
+    "name": "truck"
+  },
+  {
+    "id": "648df316fbd70a7103f1aabd",
+    "driver_name": "Kristy Case",
+    "phone": "+1 (951) 600-3224",
+    "latitude": 78.627317,
+    "longitude": 70.422095,
+    "type": "B",
+    "name": "car"
+  }
+]
