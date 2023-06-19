@@ -51,16 +51,6 @@ function Vehicles() {
     setShowMap(!showMap)
   }
 
-  const menuItems = [...new Set(vehiclesList?.map((Val) => Val.name))];
-
-  const filterItem = (category: string) => {
-    const list = vehiclesList;
-    const filteredList = list?.filter((newVal) => {
-      return newVal.name === category;
-    });
-    setVehiclesList(filteredList);
-  };
-
   if (loading) {
     return (
       <ActivityIndicator style={styles.preloader} />
@@ -76,9 +66,7 @@ function Vehicles() {
         }
       />
       <Filter
-        filterItem={filterItem}
         setItem={setVehiclesList}
-        menuItems={menuItems}
       />
       <>
         {!showMap ? (
@@ -117,7 +105,7 @@ const styles = StyleSheet.create({
   item: {
     backgroundColor: '#f9c2ff',
     padding: 20,
-    marginVertical: 8,
+    marginVertical: 20,
   },
   header: {
     fontSize: 32,
